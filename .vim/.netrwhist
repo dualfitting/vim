@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/lookflying/chengshuxin/g3suh/g3suh-common/com'
+let g:netrw_dirhist_2='/home/sxcheng/Workspace/test/iniparser/src'
+let g:netrw_dirhist_3='/home/sxcheng/Workspace/g3suh/group_svn/repo/trunk/g3suh/g3suh-daemon/config'
+let g:netrw_dirhist_4='/home/sxcheng/Workspace/scala_cfg/scala-master/src/compiler/scala/tools/nsc/symtab'
+let g:netrw_dirhist_5='/home/sxcheng/Backup/repos'
+let g:netrw_dirhist_6='/home/sxcheng/Workspace/LDA/onlineldavb_news'
+let g:netrw_dirhist_7='/home/sxcheng/.vim'
